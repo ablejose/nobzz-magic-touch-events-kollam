@@ -1,0 +1,56 @@
+{
+  "slug": "nobzz-magic-touch-events-kollam",
+  "name": "Nobzz Magic Touch Events",
+  "shortName": "Nobzz Magic Touch",
+  "descriptor": "Event Management",
+  "address": "Freeda Cottage, Thangasherry East, Thangassery, Kollam, Keralam 691007",
+  "area": "Thangassery",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691007",
+  "geo": {
+    "lat": 8.881610000000002,
+    "lng": 76.5664073
+  },
+  "mapsLink": "https://maps.google.com/?cid=12066498649839258884",
+  "phone": "+91 98471 77475",
+  "whatsapp": "919847177475",
+  "rating": 4.8,
+  "reviewCount": 26,
+  "reviews": [
+    {
+      "name": "shawn edison",
+      "rating": 5,
+      "quote": "Thank you to Nobin Normen and nobzz magic touch for making my event such a wonderful experience. The stage and all the decorations were so mind blowing. Not to mention about your catering services it was fantastic. I will be contacting you for all of my future events."
+    },
+    {
+      "name": "Bibin D'Cruz",
+      "rating": 5,
+      "quote": "The owner has an imagination,ability to visualise your ideas or just recreate the images you provide for an event. The food is amazing( at least the times, I've had it), make sure you ask to add brownies to the menu."
+    },
+    {
+      "name": "Nithin Vincent",
+      "rating": 5,
+      "quote": "It's been an honour that I chosed the right event management. Nobzz magic events. My dreams came to reality. Delightful. The most lovable person nobin. Tnx brother for the wonderful surprises throughout the day. Wishing a good day future ahead."
+    },
+    {
+      "name": "jackson peters",
+      "rating": 5,
+      "quote": "It was a wonderful experience for being a part of the event. The Decors and stage were mind blowing.... Best and delicious food Thank you Nobin Normen for making the function Fabulous 👑"
+    },
+    {
+      "name": "Andrea Rex",
+      "rating": 5,
+      "quote": "Does their job professionally and with great responsibility and they really did turn our dreams into reality💯"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://nobzz-magic-touch-events-kollam.vercel.app"
+}
